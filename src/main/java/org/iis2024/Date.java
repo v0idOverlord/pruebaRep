@@ -47,6 +47,11 @@ public class Date {
     return year;
   }
 
+  
+  public void ReceiveMaster() {
+	  System.out.println("wataralai");
+  }
+  
   /**
    * Constructs a Date object representing a specific day, month, and year.
    *
